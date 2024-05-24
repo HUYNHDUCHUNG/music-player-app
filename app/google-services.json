@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891925306089",
+    "project_id": "fir-a4f6d",
+    "storage_bucket": "fir-a4f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891925306089:android:0bc24ce0d08bd2f37c2e78",
+        "android_client_info": {
+          "package_name": "com.example.musicplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0Dj8_ULgP2iWfFMNGZ8XfZEaq_yW6_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

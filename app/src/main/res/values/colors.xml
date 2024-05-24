@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="process_seekbar">#FCC419</color>
+    <color name="background_seekbar">#666161</color>
+    <color name="background_app">#2B2730</color>
+    <color name="text">#9F44B5</color>
+    <color name="title_list">#860A35</color>
+
+    <color name="startColor_gradient">#12100E</color>
+    <color name="endColor_gradient">#2B4162</color>
+</resources>

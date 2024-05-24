@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_play">Play</string>
+    <string name="pause">PAUSED - 10s</string>
+    <string name="music_player">MUSIC PLAYER</string>
+    <string name="_1_10">1:10</string>
+    <string name="_3_10">3:10</string>
+    <string name="_1">1</string>
+    <string name="th_lo_i_nh_c">Thể loại nhạc:</string>
+    <string name="danh_s_ch_b_i_h_t">Danh sách bài hát:</string>
+
+</resources>
